@@ -1,0 +1,17 @@
+{
+  "name": "dockerjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./tests/index.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "child_process": "^1.0.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  }
+}
